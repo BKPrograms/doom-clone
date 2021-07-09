@@ -9,4 +9,4 @@ A flying enemy that charges at you in level 2:
 <img src = "images/screenshot2.JPG">
 
 A tank-like enemy in level 2:
-<img src = "images/screenshot2.JPG">
+<img src = "images/screenshot3.JPG">
